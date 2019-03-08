@@ -88,7 +88,8 @@ const defaulStyles = {
     left: 0,
     right: 0,
     flexDirection: "row",
-    flex: 1
+    flex: 1,
+    justifyContent: "space-between"
   },
   dotContainer: {
     flex: 0.6,
